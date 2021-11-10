@@ -8,7 +8,8 @@ const PageFooter = ({ author, githubUrl }) => (
       <p className="page-footer">
         © {new Date().getFullYear()}
         &nbsp;
-        <a href={githubUrl}>{author}</a>
+        {/* <a href={githubUrl}>{author}</a> */}
+        <a href={githubUrl}>Yoonmin Cho</a>
         &nbsp;powered by
         <a href="https://github.com/zoomKoding/zoomkoding-gatsby-blog">
           &nbsp;zoomkoding-gatsby-blog

@@ -6,7 +6,7 @@ module.exports = {
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `yoonminsohappy/yoonminsohappy.github.io`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
@@ -14,13 +14,13 @@ module.exports = {
     name: `조윤민`,
     bio: {
       role: `Frontend Software Engineer`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      description: ['세상에 이로운 가치를 더하는', '분야의 경계를 허무는', '시대의 흐름을 타고난'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/zoomKoding`,
-      linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `zoomkoding@gmail.com`,
+      Github: `https://github.com/yoonminsohappy`,
+      LinkedIn: `https://www.linkedin.com/in/yoonmin-cho-9840a0201/`, 
+      Email: `yoonminsohappy@gmail.com`,
     },
   },
 
