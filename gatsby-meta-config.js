@@ -14,13 +14,13 @@ module.exports = {
     name: `조윤민`,
     bio: {
       role: `Frontend Software Engineer`,
-      description: ['세상에 이로운 가치를 더하는', '분야의 경계를 허무는', '시대의 흐름을 타고난'],
+      description: ['코드로 세상을 잇는','이로운 가치를 더하는', '분야의 경계를 허무는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
-      Github: `https://github.com/yoonminsohappy`,
-      LinkedIn: `https://www.linkedin.com/in/yoonmin-cho-9840a0201/`, 
-      Email: `yoonminsohappy@gmail.com`,
+      github: `https://github.com/yoonminsohappy`,
+      linkedIn: `https://www.linkedin.com/in/yoonmin-cho-9840a0201/`, 
+      email: `yoonminsohappy@gmail.com`,
     },
   },
 
@@ -42,6 +42,15 @@ module.exports = {
       },
       // ========================================================
       // ========================================================
+      {
+        date: '2017.03 - 2020.02',
+        activity: '인천국제고 졸업',
+        links: {
+          post: '/gatsby-starter-zoomkoding-introduction',
+          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
+          demo: 'https://www.zoomkoding.com',
+        },
+      },
       {
         date: '2021.02 ~',
         activity: '개인 블로그 개발 및 운영',
