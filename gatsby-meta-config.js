@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `Frontend Software Engineer`,
       description: ['코드로 세상을 잇는','이로운 가치를 더하는', '분야의 경계를 허무는'],
-      thumbnail: 'sample.png', // Path to the image in the 'asset' folder
+      thumbnail: 'emoji.jpg', // Path to the image in the 'asset' folder
     },
     social: {
       github: `https://github.com/yoonminsohappy`,
