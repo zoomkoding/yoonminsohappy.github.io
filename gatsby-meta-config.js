@@ -44,7 +44,7 @@ module.exports = {
       // ========================================================
       {
         date: '2017.03 - 2020.02',
-        activity: '인천국제고 졸업',
+        activity: '뀌웅',
         links: {
           post: '/gatsby-starter-zoomkoding-introduction',
           github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
