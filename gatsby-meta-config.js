@@ -14,7 +14,7 @@ module.exports = {
     name: `조윤민`,
     bio: {
       role: `Frontend Software Engineer`,
-      description: ['코드로 세상을 잇는','이로운 가치를 더하는', '분야의 경계를 허무는'],
+      description: ['데이터를 기반으로 일하는','이로운 가치를 더하는', '분야의 경계를 허무는'],
       thumbnail: 'emoji.jpg', // Path to the image in the 'asset' folder
     },
     social: {
