@@ -8,7 +8,3 @@ categories: data-structures
 ---
 
 (--수정하여 업데이트 예정--)
-
-```toc
-
-```
